@@ -1,0 +1,112 @@
+3
+A B
+B C
+D E
+
+B
+C
+
+
+10
+E V
+H T
+E L
+K Z
+H N
+N W
+D M
+H Z
+K L
+A B
+
+B
+
+
+17
+O S
+H W
+G S
+A E
+E R
+L Q
+L U
+E M
+I J
+W Z
+M Y
+I P
+I Z
+J Y
+P V
+G X
+A B
+
+B
+E
+H
+I
+J
+M
+P
+R
+V
+W
+Y
+Z
+
+
+17
+J R
+M N
+A V
+I P
+G L
+F S
+Q Y
+J U
+F T
+B M
+A Q
+G Y
+C H
+P W
+D L
+Q X
+A B
+
+B
+D
+G
+L
+M
+N
+Q
+V
+X
+Y
+
+
+11
+A E
+W Y
+I K
+D V
+U Z
+C H
+A Q
+E Q
+N O
+M R
+A B
+
+B
+E
+Q
+
+
+1
+A B
+
+B
+
+
